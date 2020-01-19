@@ -48,10 +48,9 @@ https://docs.google.com/document/d/1iqV5yyRkg2zWlxS62nCUV9NdyUhi0zswxr8aipEWV8A/
 ## Conclusion:
 
 
-
-## 資料
-
 ## 参考文献
+
+ゼミ論文本文中に記載
 
 ## 謝辞
 本研究を進めるにあたり古橋研究室の古橋教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
