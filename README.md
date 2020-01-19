@@ -43,10 +43,6 @@ https://docs.google.com/presentation/d/1pW1yakPe2sBgZ65AnEZIofk_JEYGQJve4WVvUoaa
 
 #本文
 
-## 題名
-## Title
-
-## 目次　
 
 ## 資料
 
