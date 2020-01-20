@@ -11,7 +11,7 @@ https://docs.google.com/presentation/d/1pW1yakPe2sBgZ65AnEZIofk_JEYGQJve4WVvUoaa
 
 ## ゼミ論文印刷提出用
 
-https://docs.google.com/document/d/1iqV5yyRkg2zWlxS62nCUV9NdyUhi0zswxr8aipEWV8A/edit#
+https://docs.google.com/document/d/1iqV5yyRkg2zWlxS62nCUV9NdyUhi0zswxr8aipEWV8A/edit?usp=sharing
 
 ## 本文
 
