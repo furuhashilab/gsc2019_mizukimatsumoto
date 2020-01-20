@@ -1,5 +1,6 @@
 # gsc2019_mizukimatsumoto
 松本瑞季の2019年度ゼミ論製作用レポジトリ
+https://furuhashilab.github.io/gsc2019_mizukimatsumoto/
 
 
 # 2019年度　ゼミ論
