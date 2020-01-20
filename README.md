@@ -73,7 +73,6 @@ iPhoneにある既存のヘルスケアアプリは、自分の健康状況が�
 
 https://docs.google.com/spreadsheets/d/1Z0fuuvf4HRObFWggpDrsVv9VWL1m3sSIYVPT5FJQ_YM/edit#gid=0
 
-ゼミ論文本文中に記載
 
 ## 謝辞
 本研究を進めるにあたり古橋研究室の古橋教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
