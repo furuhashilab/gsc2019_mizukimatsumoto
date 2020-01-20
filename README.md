@@ -21,6 +21,10 @@ https://furuhashilab.github.io/gsc2019_mizukimatsumoto/
 ## 題名
 位置ゲーム×ヘルスケアが秘める可能性
 
+## 資料
+
+<img></img>
+
 2020年2月1日
 
 青山学院大学　地球社会共生学部　地球社会共生学科
