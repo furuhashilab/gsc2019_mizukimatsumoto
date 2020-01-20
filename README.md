@@ -71,12 +71,7 @@ iPhoneにある既存のヘルスケアアプリは、自分の健康状況が�
 
 ## 参考文献
 
-(*1)
-http://tokuteikenshin-hokensidou.jp/news/2016/005743.php
-
-(*2)
-https://www.tyojyu.or.jp/net/kenkou-tyoju/rouka-yobou/undou-shukan.html
-
+https://docs.google.com/spreadsheets/d/1Z0fuuvf4HRObFWggpDrsVv9VWL1m3sSIYVPT5FJQ_YM/edit#gid=0
 
 ゼミ論文本文中に記載
 
