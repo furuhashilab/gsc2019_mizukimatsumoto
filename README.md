@@ -7,7 +7,7 @@
 
 ## 最終発表用スライド
 
-https://docs.google.com/presentation/d/1pW1yakPe2sBgZ65AnEZIofk_JEYGQJve4WVvUoaaxGU/edit#slide=id.p
+https://docs.google.com/presentation/d/1pW1yakPe2sBgZ65AnEZIofk_JEYGQJve4WVvUoaaxGU/edit?usp=sharing
 
 ## ゼミ論文印刷提出用
 
